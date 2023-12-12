@@ -1,21 +1,17 @@
-Sure, here is the translation of the text into English:
-
-👉 [Links](./homework/Links.md)
-
 # REST API
 
-Five tasks are logically interconnected and involve writing a REST API.
+Six tasks are logically interconnected and involve writing a REST API.
 
 ### Requirements for completing homework assignments:
 
 1. To complete the homework assignment, use the following [boilerplate](https://github.com/goitacademy/nodejs-homework-template).
 2. A separate branch is created for each homework assignment:
 
-   - hw02-express 👉 [HW-2](./homework/homework-02/README.ua.md) 👉 [Notes](./homework/homework-02/README.info.md)
-   - hw03-mongodb 👉 [HW-3](./homework/homework-03/README.ua.md) 👉 [Notes](./homework/homework-03/README.info.md)
-   - hw04-auth 👉 [HW-4](./homework/homework-04/README.ua.md) 👉 [Notes](./homework/homework-04/README.info.md)
-   - hw05-avatars 👉 [HW-5](./homework/homework-05/README.ua.md) 👉 [Notes](./homework/homework-05/README.info.md)
-   - hw06-email 👉 [HW-6](./homework/homework-06/README.ua.md) 👉 [Notes](./homework/homework-06/README.info.md)
+   - 02-express 👉
+   - 03-mongodb 👉
+   - 04-auth 👉
+   - 05-avatars 👉
+   - 06-email 👉
 
 3. Each new branch should be created from master.
 4. JS code is clean and understandable; formatting is done using Prettier.
